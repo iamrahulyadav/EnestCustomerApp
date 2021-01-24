@@ -1,0 +1,9 @@
+/build
+*.jks
+*.old
+*json
+"keystore password.txt"
+*pepk
+"SHA signing keys.txt"
+*.pem
+

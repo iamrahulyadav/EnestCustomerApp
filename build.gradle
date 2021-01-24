@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        google()  // Google's Maven repository
+        jcenter()
+        maven { url "https://jitpack.io" }
+        gradlePluginPortal()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.2'
+        classpath 'com.google.gms:google-services:4.3.4'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.4.1'
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.10'
+    }
+}
+allprojects {
+    repositories {
+        google()  // Google's Maven repository
+        jcenter()
+    }
+}
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,6 +1,0 @@
-MD5: B2:FD:9A:2F:13:20:6E:D2:1C:49:51:AE:3A:0F:BF:66
-SHA1: 4F:DF:8E:A0:BB:7F:8D:2C:4D:0B:B0:E8:73:14:50:04:93:73:B6:7B
-SHA-256: CB:2A:2E:31:96:DA:60:0B:20:CD:20:EE:66:95:1E:E2:6B:0F:F1:56:48:36:D9:D1:A1:8B:DD:9E:81:82:59:70
-Valid until: Wednesday, 31 August, 2050
-
-To be added as "App Signature" under Project Settings in Firebase Console.

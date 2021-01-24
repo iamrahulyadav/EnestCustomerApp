@@ -2,8 +2,8 @@
 *.jks
 *.old
 *json
-"keystore password.txt"
+keystore password.txt
 *pepk
-"SHA signing keys.txt"
+SHA signing keys.txt
 *.pem
 
